@@ -34,6 +34,8 @@ Grab the [driver file](fbcp-ili9342) and save it locally to you computer
 ### RetroPie
 > Linux Distro
 
+![RetropPie](retropie.jpg)
+
 Drop the driver file into the ```/home/pi``` directory
 SSH into your Pi
 
@@ -62,6 +64,8 @@ Save and reboot
 
 ### Lakka
 > Because Arch
+
+![Lakka](lakka.jpg)
 
 Drop the driver file into the ```/storage``` directory
 SSH into your Pi
