@@ -5,6 +5,7 @@
 
 ### Pin Mapping
 > This is a 4 IO SPI pin mapping for Raspberry Pi 2/3/Zero
+
 | Function|RPI PIN |GPIO|
 |----|----|----|
 |RESET|22|GPIO25|
